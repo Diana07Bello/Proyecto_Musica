@@ -32,6 +32,10 @@ header {
     font-family: "Poetsen One", sans-serif;
 }
 
+.logo h1 span{
+    font-family: "Poetsen One", sans-serif;
+}
+
 .logo {
     text-decoration: none;
 }
@@ -49,4 +53,8 @@ nav .menu a {
     text-decoration: none;
     color: #002379;
     font-weight: 500;
+}
+
+.letra-color {
+    color: #FF5F00;
 }
