@@ -1,0 +1,16 @@
+.div-principal h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+#seccion-generos{
+    height: auto;
+    width: 100%;
+    padding: 20px 70px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
